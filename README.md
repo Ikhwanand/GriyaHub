@@ -38,7 +38,7 @@ Pastikan sudah terinstall di komputer:
 ### 1. Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ikhwanand/GriyaHub
 cd GriyaHub
 ```
 
